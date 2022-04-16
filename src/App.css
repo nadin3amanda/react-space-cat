@@ -1,13 +1,7 @@
-.App {
-    text-align: center;
-}
-
 .cat-container {
     display: flex;
     justify-content: center;
     vertical-align: middle;
-    width: 100%;
-    height: 100%;
   }
   .spacecat {
     width: 300px;
