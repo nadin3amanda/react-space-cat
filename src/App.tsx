@@ -89,6 +89,10 @@ function App() {
             <div className="cat-container">
                 <img src="https://github.com/nadin3amanda/Space-Cat/blob/main/images/spacecat.png?raw=true" alt="cat" className="spacecat"/>
             </div>
+            <div className="flicker"><p className="t1">Welcome to Earth!</p>
+            <p className="t2">Nadine is a Creative Noob Frontend Developer </p>
+            <p className="t3">No, this cat is not Nadine</p>
+            <p className="end">The End.</p></div>
             <script src="https://cdn.jsdelivr.net/npm/tsparticles@1/tsparticles.min.js"></script>
             <script src="https://cdn.jsdelivr.net/npm/tsparticles-preset-stars@1/tsparticles.preset.stars.bundle.min.js"></script>
         </React.Fragment>
